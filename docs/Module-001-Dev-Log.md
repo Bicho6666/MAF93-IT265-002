@@ -11,25 +11,27 @@
 - [ ] Goal 2
 - [ ] Goal 3
 -->
+- [ ] Goal 1: Finish this Dev Log
+- [ ] Goal 2: Learn how to work github more
+- [ ] Goal 3: complete HW studio brainstorm
 
 #### Progress
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
-  - <!--Your entry here or N/A if not applicable for this entry-->
+  - I figured out how to make docs folder
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  -  had issues with making docs folder
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  -  refered back to slideshow explaining how to create docs folder
 
 #### Learnings
-- Key insights, techniques, or concepts explored.
--  <!--Your entry here or N/A if not applicable for this entry-->
+-  learned more about github writing and formatting
+-  learned about games with different features in class discussion
 
 #### Free Thinking
-- Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
--  <!--Your entry here or N/A if not applicable for this entry-->
+- I think the main stairs in the HCAD building can be built wider even though it was designed to be slim, no one likes to be interacting with other students
 <!--
 
 - Example prompts:
@@ -41,4 +43,4 @@
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
--  <!--Your entry here or N/A if not applicable for this entry-->
+  - learn more about github
