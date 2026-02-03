@@ -12,7 +12,8 @@
 - [ ] Goal 3
 -->
 - [ ] decide on which atari game for Case study
-- [ ] 
+- [ ] make some progress on dev log 2
+- [ ] finish up case study 
 
 #### Progress
 - **What I accomplished**:
