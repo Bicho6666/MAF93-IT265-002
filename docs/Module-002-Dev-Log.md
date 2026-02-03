@@ -18,7 +18,7 @@
 #### Progress
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
-  - chose Beserk as my atari game
+  - chose Berzerk as my atari game
   - 
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
