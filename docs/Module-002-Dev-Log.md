@@ -31,8 +31,8 @@
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
--  learned that Berzerk isnt that easy
--  
+- learned that Berzerk isnt that easy
+- learned that a guy died playing it (not connected to the game)
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
