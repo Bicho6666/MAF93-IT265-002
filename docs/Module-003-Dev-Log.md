@@ -9,7 +9,7 @@
 
 - [ ] finish module 3 & 4 dev logs
 - [ ] work on color theory case study
-- [ ] Goal 3
+- [ ] Brainstorm more on my game I want to create
 
 #### Progress
 - **What I accomplished**:
@@ -17,10 +17,10 @@
   - 
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+    -  dont know how to tie my game together to make it make sense
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+    - 
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
@@ -28,7 +28,8 @@
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
-  - 
+  - i want to incorporate D6 to my game where you choose which stack of cards to pick from (out of 6)
+  - survival game based on until dawn
 <!--
 
 - Example prompts:
