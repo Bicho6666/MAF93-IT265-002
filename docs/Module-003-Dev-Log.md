@@ -24,7 +24,7 @@
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
-  - 
+  - color theory: color plays a big role in how much peple enjoy the game or not without much thought about it
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
