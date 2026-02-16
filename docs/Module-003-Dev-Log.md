@@ -7,14 +7,14 @@
 
 #### Goals for this Module
 
-- [ ] finish module 3 & 4 dev logs
+- [ ] finish module 3 dev log
 - [ ] work on color theory case study
 - [ ] Brainstorm more on my game I want to create
 
 #### Progress
 - **What I accomplished**:
   - progress made on dev logs 
-  - 
+  - finsihed case study discussion
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
     -  dont know how to tie my game together to make it make sense
