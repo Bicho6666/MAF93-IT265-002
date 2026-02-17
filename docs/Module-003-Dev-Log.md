@@ -18,9 +18,10 @@
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
     -  dont know how to tie my game together to make it make sense
+    -  i picked my favorite games to pick out the bad features, this was hard since i love these games
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
-    - 
+    - had to watch some youtube crituques on things i didnt even think were bad about my games, and i understand the hate 
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
@@ -41,4 +42,4 @@
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
-  - 
+  - see if my game works with flow
