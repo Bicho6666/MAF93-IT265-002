@@ -9,7 +9,7 @@
 
 - [ ] finish dev log 4
 - [ ] complete color theory case study
-- [ ] Goal 3
+- [ ] Make my game more solid
 
 
 #### Progress
