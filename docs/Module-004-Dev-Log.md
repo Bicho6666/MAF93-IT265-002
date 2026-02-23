@@ -17,12 +17,13 @@
   - Summarize completed tasks or progress made.
   - made a base for my game and how it works
   - finsihed color theory case study
+  - came up with a name for my game
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
-  - 
+  - difficulty in picking a name for my game
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
-  -  
+  - I used a name genorator
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
