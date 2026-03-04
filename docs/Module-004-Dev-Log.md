@@ -27,11 +27,11 @@
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
-- 
+- learned that Berzerk didnt choose its colors but was limited due to harware palette
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
-- 
+- refine some game mechanics i havent thought too much about, like how much damage increases each night
 <!--
 
 - Example prompts:
@@ -43,4 +43,4 @@
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
-- 
+- focus on my design treatment assignment 
