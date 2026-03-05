@@ -9,7 +9,7 @@
 
 - [ ] Finish module 6
 - [ ] study for midterm
-- [ ] Goal 3
+- [ ] get an idea for a prototype
 
 #### Progress
 - **What I accomplished**:
@@ -17,10 +17,10 @@
   - 
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
-  - 
+  - not sure how to make my physical prototype, easy to draw it out or buy off the card site
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
-  - 
+  - im just gonna digitally draw a couple out and print
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
@@ -28,7 +28,8 @@
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
-- 
+- I want to create cards for my game that reflect the items being used, like the health cards, weapon cards, log cards, etc.
+- for dice i will just use my dnd dice
 <!--
 
 - Example prompts:
