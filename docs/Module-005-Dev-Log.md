@@ -22,15 +22,15 @@
   - 
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
-  -  roll D4 to deal how many cards you recieve
+  - roll D4 to deal how many cards you recieve
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
--  <!--Your entry here or N/A if not applicable for this entry-->
+- i leanred from classmates in how to make a health bar physically
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
--  <!--Your entry here or N/A if not applicable for this entry-->
+- i want simple graphics and readable cards for easy understanding of my game
 <!--
 
 - Example prompts:
@@ -42,4 +42,4 @@
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
--  <!--Your entry here or N/A if not applicable for this entry-->
+-  experiement with physical prototype
