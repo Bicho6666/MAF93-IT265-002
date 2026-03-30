@@ -8,27 +8,28 @@
 #### Goals for this Module
 
 - [ ] finish module 7 
-- [ ] Goal 2
-- [ ] Goal 3
+- [ ] continue finishing prototype
 
 #### Progress
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
-  - <!--Your entry here or N/A if not applicable for this entry-->
+  - i finsihed drawing out all my prototype cards
+  - made some little cards and pieces to track health
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  - i didnt know how to track health in a board game
+  - time needed to finish prototype
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  - my peers suggested how other games tracked health with paper and markers
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
--  <!--Your entry here or N/A if not applicable for this entry-->
+- learned i can use a index card and make it to draw and erase your health
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
--  <!--Your entry here or N/A if not applicable for this entry-->
+- I want to make my game readable with easy drawings of the item given; bandage for health, etc..
 <!--
 
 - Example prompts:
@@ -40,4 +41,4 @@
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
--  <!--Your entry here or N/A if not applicable for this entry-->
+- add ideas from other peers prototypes to improve presentation
