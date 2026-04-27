@@ -14,21 +14,23 @@
 #### Progress
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
-  - <!--Your entry here or N/A if not applicable for this entry-->
+  - I made the scene for my game in Unreal
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  -  some loading issues due to too many things to load such as trees 
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  -  deleted unesseary things to not be loaded so game can run faster
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
--  <!--Your entry here or N/A if not applicable for this entry-->
+- learned how to make a simple card game in unreal
+- made a realistic dynamic fire using particles
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
--  <!--Your entry here or N/A if not applicable for this entry-->
+- I want the sun to set when everyone is finished rerolling for new cards, then the sun to come up when everyone is done with their turn
+- not sure if ill be able to do everything I want since I chose to do unreal for its realtime graphics
 <!--
 
 - Example prompts:
@@ -40,4 +42,5 @@
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
--  <!--Your entry here or N/A if not applicable for this entry-->
+- focus on completing the demo
+- study for final
